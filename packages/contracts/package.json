@@ -1,0 +1,12 @@
+{
+  "name": "@contracts/contracts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "eslint": "^8.47.0"
+  }
+}
