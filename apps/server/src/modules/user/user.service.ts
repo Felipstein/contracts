@@ -1,7 +1,5 @@
-import {
-  CreateUserBody,
-  CreateUserResponse,
-} from '@contracts/contracts/src/http/user/create-user'
+import { CreateUserBody, CreateUserResponse } from '@contracts/contracts'
+
 import { PrismaUserRepository } from '../../infra/repositories/prisma-user.respotiroy'
 import { userMapper } from './user.mapper'
 import { UserRepository } from './user.repository'
